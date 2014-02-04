@@ -45,7 +45,7 @@ shinyUI(pageWithSidebar(
         h4("Key Statistics"),
         tableOutput("results_table"),
         helpText(""),
-        helpText("Key parameter estimates from a random effects meta-analysis using REML estimation. All analyses were performed using the metafor package available for R. Additional information from the analysis is available on the 'Metafor Output' tab.")),
+        helpText("Key parameter estimates from a random effects meta-analysis using REML estimation. All analyses were performed using the metafor package available for R (http://cran.r-project.org/web/packages/metafor/index.html). Additional information from the analysis is available on the 'Metafor Output' tab.")),
       tabPanel("Metafor Output", verbatimTextOutput("ma_summary")),
       tabPanel("Data", dataTableOutput('mytable'))  
       )
