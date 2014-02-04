@@ -30,7 +30,7 @@ shinyUI(pageWithSidebar(
                 list("Control" = "Control",
                      "TAU" = "TAU",
                      "Alternative" = "Alternative")),
-    helpText("Select an outcome measure category as well as a comparison group category. The default for the Outcome Measure is 'All', which aggregates across all measures within a study. The default for Comparison Type is 'Control'. Thus, the initial results you see on the right are the meta-analysis results for all outcome measures comparing a family therapy to control.")
+    helpText("Select an outcome measure category as well as a comparison group category. The default for the Outcome Measure is 'All', which aggregates across all measures within a study (computes a simple average). The default for Comparison Type is 'Control'. Thus, the initial results you see on the right are the meta-analysis results for all outcome measures comparing a family therapy to control.")
   ),
   
   mainPanel(
