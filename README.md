@@ -21,5 +21,5 @@ The app is pretty basic as it stands. In future releases we'd like to:
 * Provide the code used for the meta-analysis and plots for offline use
 * Allow users to download the figures
 
-Please let us know if find any errors.
+Please let us know if find any errors. Thanks!
 
