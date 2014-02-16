@@ -10,7 +10,7 @@ library(shiny)
 shinyUI(pageWithSidebar(
   
   # Application title
-  headerPanel("Psychotherapy Meta-Analysis"),
+  headerPanel("Meta-analysis for Family Therapy"),
   
   ## in the list, the first is the name to appear on the app and after the = is the value in the data
   
@@ -47,7 +47,8 @@ shinyUI(pageWithSidebar(
         helpText(""),
         helpText("Key parameter estimates from a random effects meta-analysis using REML estimation. All analyses were performed using the metafor package available for R (http://cran.r-project.org/web/packages/metafor/index.html). Additional information from the analysis is available on the 'Metafor Output' tab.")),
       tabPanel("Metafor Output", verbatimTextOutput("ma_summary")),
-      tabPanel("Data", dataTableOutput('mytable'))  
+      tabPanel("Data", dataTableOutput('mytable')),
+      tabPanel("Study Information", includeHTML('study_list_family_therapy.html'))
       )
     )
 
