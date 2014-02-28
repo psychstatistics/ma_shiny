@@ -9,6 +9,8 @@ require(BH)
 
 ## Read in the data  =======================
 data1 <- read.dta(file = "cdma_datacollapsed1.dta")
+load('measures.RData')
+complete_data <- read.dta(file = "cdma_datacleaned.dta")
 
 
 ### Data Munging ============================
@@ -28,8 +30,18 @@ studies <- c("Alexander & Parsons, 1973", "Aultman-Bettridge, 2007", "Barton et 
 
 data1$studyid <- factor(data1$studyid, levels = studies)
 
+complete_data <- subset(complete_data, rand == "Randomized") ## Randomized only
+complete_data <- subset(complete_data, timing == 2) ## Post-tx only
+
+
 ### reduce number of variables
 data1 <- data1[,c('studyid', 'txtype', 'comptype',  'meastype', 'd', 'v')]
+complete_data <- complete_data[ , c("studyid", "txtype", "comptype", "measure", 
+                                    "d", "v", "n1", "n2")]
+complete_data$studyid <- factor(complete_data$studyid, levels = studies)
+complete_data <- arrange(complete_data, studyid)
+colnames(complete_data) <- c("Study ID", "Tx Type", "Comparison Type", "Measure", 
+                             "d", "v", "Tx N", "Comp N")
 
 ## Source the Plotsettings ======================
 source("plotsettings.R")
@@ -209,5 +221,12 @@ datasetInput_compgroup <- reactive({
     xtable(mat)
   })
 
+  output$study_table <- renderTable ({
+    xtable(complete_data)
+  }, include.rownames=FALSE)
+
+  output$measure_table <- renderTable ({
+    xtable(measures)
+  }, include.rownames=FALSE, digits = 0)
   
 })

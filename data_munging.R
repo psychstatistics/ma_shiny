@@ -3,6 +3,7 @@ require(dplyr)
 require(metafor)
 require(ggplot2)
 require(gridExtra)
+require(xtable)
 
 
 data1 <- read.dta(file = "cdma_datacollapsed1.dta")

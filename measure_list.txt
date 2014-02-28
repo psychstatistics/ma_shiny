@@ -1,0 +1,276 @@
+1 - 12month recidivism rate 
+2 - 30day minimal drug use
+3 - 30day substance use frequency 
+4 - Absences 
+5 - Academic Problems: Discharge 
+6 - Acting out: termination 
+7 - Adaptability (composite score) 
+8 - Addiction Severity Index (ASI) - Days using alcohol, past month 
+9 - Adolescent Risk-taking Behavior Scale (ARBS): Binge drinking 
+10 - Adolescent Risk-taking Behavior Scale (ARBS): Drug Use 
+11 - Adolescent Risk-taking Behavior Scale (ARBS): Excessive Media Use 
+12 - Adolescent Risk-taking Behavior Scale (ARBS): Index 
+13 - Adolescent Risk-taking Behavior Scale (ARBS): Sex while using drugs and alcohol 
+14 - Adolescent Risk-taking Behavior Scale (ARBS): Sex without condom 
+15 - Adolescent Risk-taking Behavior Scale (ARBS): Sexual disinhibition 
+16 - Adolescent Risk-taking Behavior Scale (ARBS): Smoking 
+17 - Adolescent Sexual Behavior Inventory (ASBI): Deviant sexual interests 
+18 - Adolescent Sexual Behavior Inventory (ASBI): Sexual risk/misuse
+19 - Adolescent-father communication 
+20 - Alcohol use
+21 - Annualized Convictions - Aggressive Crimes 
+22 - Annualized Convictions - Property Crimes 
+23 - Anxiety withdrawal
+24 - Any delinquency 
+25 - Any drug offense 
+26 - Any nonviolent offense 
+27 - Any offense 
+28 - Any problems 
+29 - Any use
+30 - Any violent offense 
+31 - Arrests
+32 - Arrests for violent crime 
+33 - ASI - Days using marijuana, past month 
+34 - Attention deficit-hyperactivity disorder 
+35 - Attitudes toward aggression: % improving 
+36 - Attitudes toward delinquency: % improving 
+37 - Brief Symptom Inventory (BSI): paranoid ideation
+38 - Brief Symptom Inventory (BSI): phobic anxiety
+39 - Brief Symptom Inventory (BSI): psychoticism
+40 - Brief Symptom Inventory (BSI): Somatization 
+41 - Brief Symptom Inventory (BSI): obsessive-compulsive  
+42 - Brief Symptom Inventory, Global Severity Index (BSI-GSI)
+43 - Brief Symptom Inventory (BSI): Anxiety 
+44 - Brief Symptom Inventory (BSI): General Distress
+45 - Brief Symptom Inventory (BSI): Hostility
+46 - Brief Symptom Inventory (BSI): interpersonal sensitivity
+47 - Brief Symptom Inventory (BSI): depression
+48 - Child Behavior Checklist (CBCL):  Internalizing behavior 
+49 - Child Behavior Checklist (CBCL): Externalizing behavior 
+50 - Changes in social skills risk scores: % improving 
+51 - Child and Adolescent Functional Assessment Scale (CAFAS): Behavior Toward Others
+52 - Child and Adolescent Functional Assessment Scale (CAFAS): Community
+53 - Child and Adolescent Functional Assessment Scale (CAFAS): Home
+54 - Child and Adolescent Functional Assessment Scale (CAFAS): Moods and Emotion
+55 - Child and Adolescent Functional Assessment Scale (CAFAS): School-work
+56 - Child and Adolescent Functional Assessment Scale (CAFAS): Substance Use
+57 - Child and Adolescent Functional Assessment Scale (CAFAS): Total Score
+58 - Children's Depression Inventory (CDI)
+59 - Children's Manifest Anxiety Scale (MAS)
+60 - Cigarette use past 12 months 
+61 - Client has problems in school 
+62 - Client Negative Self-Image score? 
+63 - Cocaine Abstinence 
+64 - Cocaine Use 
+65 - Cohesion (composite score) 
+66 - Conduct grades 
+67 - Days in general education
+68 - Degree of conflict within the family? 
+69 - Delinquency 
+70 - Discipline Problems
+71 - Drug Severity Index 
+72 - Drug use: termination
+73 - Drug use attitudes 
+74 - Drug use problem severity
+75 - Dysthymia 
+76 - Externalizing behavior (composite score) 
+77 - FACES-II: Cohesion 
+78 - FACES-II: Adaptability
+79 - Family Adaptability and Cohesion Evaluation Scales (FACES-III): Adaptability
+80 - Family Adaptability and Cohesion Evaluation Scales (FACES-III): Cohesion
+81 - Family Assessment Measure (FAM-III)
+82 - Family Assessment Measure III (FAM III): affective expression
+83 - Family Assessment Measure III (FAM III): communication
+84 - Family Assessment Measure III (FAM III): control 
+85 - Family Assessment Measure III (FAM III): involvement 
+86 - Family Assessment Measure III (FAM III): role performance
+87 - Family Assessment Measure III (FAM-III): Task accomplishment
+88 - Family Assessment Measure III (FAM-III): values and norms
+89 - Family cohesion 
+90 - Family conflict 
+91 - Family Environment Scale (FES): cohesion 
+92 - Family Environment Scale (FES): conflict 
+93 - family functioning: % improving
+94 - Frequency of Offense: postintervention
+95 - Frequency of rearrest for sexual offenses 
+96 - Frequency of rearrest of nonsexual offenses 
+97 - GAIN: Internalized distress 
+98 - Generalized Anxiety Disorder 
+99 - Global family competence: termination
+100 - Global self-concept 
+101 - How frequently has the client been using alcohol during the past 3 months? 
+102 - How frequently has the client been using drugs during the past 3 months? 
+103 - How often have family relationships been tense? 
+104 - How well do you get along with mother? 
+105 - Incarceration
+106 - Internalizing behavior (composite score) 
+107 - Inventory of Interpersonal Problems (IIP-D): Overly autocratic dominant 
+108 - Inventory of Interpersonal Problems (IIP-D): Overly distant/cold 
+109 - Inventory of Interpersonal Problems (IIP-D): Overly exploitable/compliant 
+110 - Inventory of Interpersonal Problems (IIP-D): Overly expressive/importunate 
+111 - Inventory of Interpersonal Problems (IIP-D): Overly introverted/socially avoiding 
+112 - Inventory of Interpersonal Problems (IIP-D): Overly nurturant/friendly 
+113 - Inventory of Interpersonal Problems (IIP-D): Overly quarrelsome/competitive 
+114 - Inventory of Interpersonal Problems (IIP-D): Overly sub-assertive/submissive 
+115 - Is client in conflict with parent? 
+116 - Major Depression
+117 - Marijuana Abstinence 
+118 - Marijuana Use 
+119 - Marijuana use past 6 months 
+120 - Missouri Peer Relations Inventory (MPRI): Aggression
+121 - Missouri Peer Relations Inventory (MPRI): Emotional Bond
+122 - Missouri Peer Relations Inventory (MPRI): peer bonding 
+123 - Missouri Peer Relations Inventory (MPRI): Social Maturation
+124 - Missouri Peer Relations Inventory (MPRI): Peer aggression
+125 - Missouri Peer Relations Inventory (MPRI): Peer maturity
+126 - Monitoring Index
+127 - Monthly days in out-of-home placement 
+128 - Negative family interactions 
+129 - New offenses (arrest and arraigned)
+130 - Number of client's positive role behavior in the family?
+131 - Number of mother's negative types of reactions to client
+132 - Oppositional Defiant disorder 
+133 - Other drug use
+134 - Out of home placement at the time of posttest assessment 
+135 - Out of home placement for the previous 6 months 
+136 - Out-of-home placements: incarceration 
+137 - Out-of-home placements: psychiatric hospitalization 
+138 - Out-of-home placements: residential placements 
+139 - Overall recidivism
+140 - Overanxious disorder 
+141 - Parent Peer Conformity Inventory (PPCI)
+142 - Parental monitoring 
+143 - Parental Monitoring: Decision Making 
+144 - Parental Monitoring: Go Places
+145 - Parental Monitoring: Staying out
+146 - Parental Monitoring: Time outside of school
+147 - PCRS: Interpersonal
+148 - PCRS: Intrapersonal
+149 - PCRS: Total
+150 - Peer antisocial behavior 
+151 - Peer delinquency 
+152 - Peer Delinquency Scale - Peer delinquency - Discharge 
+153 - Percentage of felonies and misdemenors
+154 - Personal Experience Inventory (PEI): Alcohol/marijuana use 
+155 - Personal Experience Inventory (PEI): Other drugs 
+156 - Personal Experience Inventory (PEI): Total Drug Use 
+157 - Personal experiences inventory (PEI): Substance use index
+158 - Positive family interactions 
+159 - Primary caregiver substance use
+160 - Proportion of subjects referred to foster care for ungovernable behavior 
+161 - Prosocial activities 
+162 - Psychodynamic Child Rating Scale (PCRS): Total
+163 - RBPC: anxiety withdrawal
+164 - RBPC: Attention problems/Immaturity 
+165 - RBPC: motor excess 
+166 - RBPC: psychotic behavior 
+167 - RBPC: Social Aggression 
+168 - RCBC: Externalizing
+169 - RCBC: Internalizing
+170 - RCBC: Total score
+171 - Rearrests: Sexual crimes
+172 - Rearrests (120 weeks post referal) 
+173 - Rearrests: other crimes
+174 - Recidivism
+175 - Recidivism as adults 
+176 - Recidivism as juveniles 
+177 - Recidivism nonsexual offenses 
+178 - Recidivism sexual offenses 
+179 - Relationship risk: % improving 
+180 - Revised Behavior Problem Checklist (RBPC)  
+181 - Revised Behavior Problem Checklist (RBPC): conduct disorder
+182 - Revised Behavior Problem Checklist (RBPC): Conduct Disorder 
+183 - Revised Behavior Problem Checklist (RBPC): socialized aggression 
+184 - Revised Behavior Problem Checklist (RBPC): externalizing
+185 - Revised Problem Behavior Checklist (RBPC): total score
+186 - Salivary Control 
+187 - School antisocial behavior 
+188 - School attendance 
+189 - School bonding 
+190 - School disruption: Discharge 
+191 - School grades 
+192 - SCL-90-R 
+193 - SCL-90-R, GSI  
+194 - Self-report delinquency scale 
+195 - Self-report Delinquency Scale (SRDS): minor delinquency 
+196 - Self-report Deliquency Scale (SRDS): Aggressive Crimes 
+197 - Self-report Deliquency Scale (SRDS): crimes against persons
+198 - Self-report Deliquency Scale (SRDS): felony assault (not significant)
+199 - Self-report Deliquency Scale (SRDS): felony theft (not significant)
+200 - Self-report Deliquency Scale (SRDS): General Deliquency
+201 - Self-report Deliquency Scale (SRDS): index offenses
+202 - Self-report Deliquency Scale (SRDS): Property Crimes 
+203 - Self-report Deliquency Scale (SRDS): criminal activity, property
+204 - Seriousness of crimes 
+205 - Severity of Offense 
+206 - SF-36: Bodily Pain 
+207 - SF-36: General Health perceptions
+208 - SF-36: Mental Health 
+209 - SF-36: Physical Functioning 
+210 - SF-36: Role Emotional 
+211 - SF-36: Role Physical 
+212 - SF-36: Social Functioning 
+213 - SF-36: Vitality 
+214 - SFSR: conflict resolution
+215 - SFSR: developmental stage
+216 - SFSR: flexibility
+217 - SFSR: identified patienthood
+218 - SFSR: resonance
+219 - SFSR: structure
+220 - SFSR: Total
+221 - Sibling referrals (i.e., sibling involvement with the court) 
+222 - Social competence (composite score) 
+223 - Social Competence scale of the Child Behavior Checklist (SCS-CBC) 
+224 - Social Support Questionnaire: Satisfaction with available support 
+225 - State-Trait Anger Expression Inventory (STAXI): Anger-In 
+226 - State-Trait Anger Expression Inventory (STAXI): Trait-Anger 
+227 - State-Trait Anger Expression Inventory (STAXI): Anger-Control
+228 - State-Trait Anger Expression Inventory (STAXI): Anger-Out
+229 - State-Trait Anger Expression Inventory (STAXI): State-Anger 
+230 - Structural family systems rating: total score 
+231 - Structural Family Systems Ratings (SFSR): Total
+232 - substance abuse risk: % improving 
+233 - Substance use problems 
+234 - The number of the client's negative or problem behaviors
+235 - To what degree do you approve of his/her behavior/attitude during the past months? 
+236 - Unrevealed Differences Questionnaire (UDC): Conflict-hostility 
+237 - Unrevealed Differences Questionnaire (UDC): Supportiveness 
+238 - Unrevealed Differences Questionnaire (UDC): Verbal activity 
+239 - Urine Screen: Cocaine 
+240 - Urine Screen: Marijuana use 
+241 - Urine screen rates
+242 - YAS Externalizing Scale 
+243 - YAS Internalizing Scale 
+244 - Youth Risk Behavior Survey (YRBS): dangerousness self/others 
+245 - Youth Self-Report (YSR): externalizing symptoms 
+246 - Youth Self-Report (YSR): internalizing symptoms
+247 - Days sentenced to adult confinement
+248 - Days sentence to adult probation
+249 - Days of abstinence between randomization and 12-month follow-up
+250 - Recovery
+251 - Recidivism for any offence at 6 months post-discharge
+252 - Recidivism for any offence at 1 year post-discharge 
+253 - Recidivism for any offence at 2 years post-discharge
+254 - Recidivism for any offence at 3 years post-discharge
+255 - Average number of days until conviction
+256 - Sentenced to youth custody
+257 - Rates of sentencing to open and secure custody
+258 - Time in custody
+259 - Number of prosecutions/offences
+260 - Number of convictions
+261 - Parental supervision index
+262 - Family cohesion-self report
+263 - Family adaptability-self report
+264 - FACES-family cohesion-parent report
+265 - FACES-family adaptability-parent report
+266 - SCIS-family functioning-parent report
+267 - SCIS-caregiver depression-parent report
+268 - SSRS-social skills-self report
+269 - BAS-criminal sentiments-self-report
+270 - BAS-beliefs and attitudes scale-self-report
+271 - SCIS-Externalizing Symptoms-self-report
+272 - SCIS-Internalizing Symptoms-self-report
+273 - SSRS-social skills-parent report
+274 - SSRS-problem behaviors-parent report
+275 - SCIS-Internalizing Symptoms-parent-report
+276 - SCIS-Externalizing Symptoms-parent-report

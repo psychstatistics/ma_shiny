@@ -6,3 +6,5 @@ temp.R
 .dropbox
 ma_shiny.Rproj
 shinyapps/
+.DS_Store
+Icon?
