@@ -3,6 +3,8 @@
 .RData
 server2.R
 temp.R
+alliance_data.R
+data_munging.R
 .dropbox
 ma_shiny.Rproj
 shinyapps/
@@ -11,6 +13,5 @@ Icon?
 .zip
 zip_files/
 contents.xml
-alliance_data.R
-data_munging.R
+
 
