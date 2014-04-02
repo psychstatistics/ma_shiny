@@ -6,7 +6,7 @@ Version 0.1
 
 This is a Shiny App (http://www.rstudio.com/shiny/) for conducting a meta-analysis of randomized trials comparing family therapy to either control, treatment as usual, or an alternative treatment. The website for the current version of the app is:
 
-http://psychstatistics.shinyapps.io/ma_shiny/
+http://shinyserver.byu.edu/ma_shiny
 
 The app is pretty basic as it stands. In future releases we'd like to:
 
