@@ -1,10 +1,3 @@
-
-# This is the user-interface definition of a Shiny web application.
-# You can find out more about building applications with Shiny here:
-# 
-# http://www.rstudio.com/shiny/
-#
-
 library(shiny)
 
 shinyUI(pageWithSidebar(
@@ -46,9 +39,18 @@ shinyUI(pageWithSidebar(
         tableOutput("results_table"),
         helpText(""),
         helpText("Key parameter estimates from a random effects meta-analysis using REML estimation. All analyses were performed using the metafor package available for R (http://cran.r-project.org/web/packages/metafor/index.html). Additional information from the analysis is available on the 'Metafor Output' tab.")),
-      tabPanel("Metafor Output", verbatimTextOutput("ma_summary")),
-      tabPanel("Data", dataTableOutput('mytable')),
-      tabPanel("Full Data", tableOutput("study_table")),
+      tabPanel("Output", 
+               helpText("This tab provides the R output in raw form. This application uses the metafor package to perform the analyses."),
+               verbatimTextOutput("ma_summary")),
+      tabPanel(
+        "Data", 
+        h4("Select Data to Present"),
+        helpText("Choose which dataset to view. The default is the analysis dataset. That is, the dataset used for the meta-analysis. If you would like to see the entire dataset, click on 'Full Dataset'."),
+        radioButtons("whichData", "",
+                    list("Analysis Dataset" = "analysis_data",
+                         "Full Dataset" = "full_data"),
+                    selected = "analysis_data"),
+        dataTableOutput('mytable')),
       tabPanel("Study List", includeHTML('study_list.html')),
       tabPanel("Measure List", tableOutput("measure_table"))
       )
@@ -56,5 +58,3 @@ shinyUI(pageWithSidebar(
 
 ))
   
-  
-#, plotOutput("forest")

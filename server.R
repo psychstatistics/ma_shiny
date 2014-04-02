@@ -83,13 +83,19 @@ datasetInput_compgroup <- reactive({
          )
   })
 
-  output$mytable <- renderDataTable( {
-    dataset <- datasetInput_1()
-    dataset <- dataset[, c('studyid', 'txtype', 'comptype',  'meastype', 'd', 'v')]
-    dataset
-  }, options = list(aLengthMenu = c(5, 10, 15), iDisplayLength = 20)
+  output$mytable <- renderDataTable({
+    if (input$whichData == 'analysis_data') {
+        dataset <- datasetInput_1()
+        dataset <- dataset[, c('studyid', 'txtype', 'comptype', 'meastype', 'd', 'v')]
+        dataset
+      }
+    else {
+        dataset <- complete_data
+        dataset
+    }
+  }, options = list(aLengthMenu = c(5, 10, 15, iDisplayLength = 20))
   )
-  
+
   output$ma_summary <- renderPrint({
     ma_res <- rma.uni(yi = d, vi = v, data = datasetInput_1(), method = "REML", slab = studyid)
     summary(ma_res)
@@ -220,10 +226,6 @@ datasetInput_compgroup <- reactive({
     colnames(mat) <- 'Parameter'
     xtable(mat)
   })
-
-  output$study_table <- renderTable ({
-    xtable(complete_data)
-  }, include.rownames=FALSE)
 
   output$measure_table <- renderTable ({
     xtable(measures)

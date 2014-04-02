@@ -8,3 +8,6 @@ ma_shiny.Rproj
 shinyapps/
 .DS_Store
 Icon?
+.zip
+zip_files/
+contents.xml
