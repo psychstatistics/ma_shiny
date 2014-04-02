@@ -11,3 +11,5 @@ Icon?
 .zip
 zip_files/
 contents.xml
+alliance_data.R
+data_munging.R
