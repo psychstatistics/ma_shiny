@@ -11,7 +11,7 @@ shinyUI(pageWithSidebar(
     selectInput("outcome", "Outcome Measure:",
                 list("All" = "All",
                      "Recidivism; getting arrested" = "Recidivism; getting arrested",
-                     "Criminal Deliquency" = "Criminal Deliquency",    ### Need to change the variable b/c spelled wrong
+                     "Criminal Delinquency" = "Criminal Delinquency",    ### Need to change the variable b/c spelled wrong
                      "Substance Use" = "Substance Use",
                      "Internalizing Behaviors" = "Internalizing Behaviors",
                      "Externalizing Behaviors" = "Externalizing Behaviors", 
